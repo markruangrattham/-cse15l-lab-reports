@@ -24,7 +24,7 @@ Since the server is running on linux we had some cool commands that we could use
 ---
 4.**Moving Files with scp**
 ![Image](4.png)
-```
+
 Here we were given a java file and we wanted to move that file from our local system to the server. In order to do this we had to do scp (which stands for secure copy) followed by the java file then our lab email. After that we put in our password and to check that it actually trnasfered we just run the java file from the server by doing java (file name)
 
 ---
@@ -33,7 +33,7 @@ Here we were given a java file and we wanted to move that file from our local sy
 ![Image](5.png)
 
 For this step we needed to create a keygen. We do this in order to save time when we login the server from our terminal since we no longer have to put the password. In order to do this ssh keygen on our local terminal then we should get a public key. Lastly we would want to copy that public key onto the server. Once you do that you no longer have to enter your password, you can just do ssh then your server email.
-```
+
 
 ---
 6.**Optimizing Remote Running**
