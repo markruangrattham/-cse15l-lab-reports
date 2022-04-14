@@ -39,6 +39,7 @@ For this step we needed to create a keygen. We do this in order to save time whe
 6. ## Optimizing Remote Running
 ![Image](6.png)
 
+
 In order optimitze our time and be as efficient as possible we can run multiple commands in one line just from our local terminal. For example lets say I want to move a file and run it on the server. I would do scp (filename) then ;(do this after every command that you want to run) then ssh our lab email then ; then if you want to run any java commands you would want to put it around "" and end it with ;.
 
 ---
