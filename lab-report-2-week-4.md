@@ -55,7 +55,7 @@ the way the code was coded was to only look at the index of *")"* and *"["*. It 
 ### Changes that were made
 ![Image](9.png)
 
-### Links to the test case that made it fail
+### Link to the test case that made it fail
 [Test File 8](https://github.com/markruangrattham/markdown-parser/blob/main/test-file6.md?plain=1)
 
 ### Symptom of the input
