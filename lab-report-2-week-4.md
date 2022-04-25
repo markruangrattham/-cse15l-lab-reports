@@ -1,6 +1,7 @@
 # __Lab Report 2__
 
 ## __Bug 1__
+
 ---
 
 ### Changes that were made
@@ -20,8 +21,12 @@
 >This bug happened because the
 the way the code was coded was to only look at the index of *")"* and *"["*. It didn't take take into account the distance between the two needs to be **one** or else it wouldn't be consider a link according to markdwon. Thats why we added an if statment that checks if the difference between the openbracket and closeparen has to be one otherwiese it wouldn't be added to the array.
 >
+
+
 ---
+
 ## __Bug 2__
+
 ---
 
 ### Changes that were made
