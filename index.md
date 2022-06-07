@@ -11,3 +11,5 @@
 
 >[Lab 4 Report Week 8](https://markruangrattham.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
 
+>[Lab 5 Report Week 10](https://markruangrattham.github.io/cse15l-lab-reports/lab-report-5-week-10.html)
+
